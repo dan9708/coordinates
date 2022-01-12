@@ -1,0 +1,2 @@
+# coordinates
+Javascript - DOM miniproject
